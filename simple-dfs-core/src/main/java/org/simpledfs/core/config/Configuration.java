@@ -1,7 +1,7 @@
 package org.simpledfs.core.config;
 
 import java.util.Properties;
-
+/*Properties类中HashTable实现了Map接口*/
 public class Configuration {
 
     private Properties properties;
